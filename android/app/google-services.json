@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "536460700356",
+    "project_id": "tetuhillssolutions-1ea9c",
+    "storage_bucket": "tetuhillssolutions-1ea9c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536460700356:android:f9ec30485d771d93cf3791",
+        "android_client_info": {
+          "package_name": "com.flutterflow.tetuhillsolutions"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5KH_nq2kC2jXIW5bR6J4KER6gMiGE20I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

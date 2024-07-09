@@ -1,0 +1,1 @@
+This app provides a platform where people get to book home repairs and a professional home repairer gets dispatched to the home/business.On assessment,the repairer send a quotation to the admin who confirms it and send it to the client through the app notification.
